@@ -8,3 +8,14 @@ C:\Users\Formulatrix\Documents\Personal-Bimanjaya\WinForm\WindowsFormsAppDemo\Wi
 C:\Users\Formulatrix\Documents\Personal-Bimanjaya\WinForm\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.exe
 C:\Users\Formulatrix\Documents\Personal-Bimanjaya\WinForm\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.pdb
 C:\Users\Formulatrix\Documents\Personal-Bimanjaya\WinForm\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Form1.resources
+D:\Learner\000 Work\230918 Formulatrix Intern\WinForm\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe.config
+D:\Learner\000 Work\230918 Formulatrix Intern\WinForm\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe
+D:\Learner\000 Work\230918 Formulatrix Intern\WinForm\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.pdb
+D:\Learner\000 Work\230918 Formulatrix Intern\WinForm\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.AssemblyReference.cache
+D:\Learner\000 Work\230918 Formulatrix Intern\WinForm\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Form1.resources
+D:\Learner\000 Work\230918 Formulatrix Intern\WinForm\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Properties.Resources.resources
+D:\Learner\000 Work\230918 Formulatrix Intern\WinForm\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.GenerateResource.cache
+D:\Learner\000 Work\230918 Formulatrix Intern\WinForm\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.CoreCompileInputs.cache
+D:\Learner\000 Work\230918 Formulatrix Intern\WinForm\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.exe
+D:\Learner\000 Work\230918 Formulatrix Intern\WinForm\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.pdb
+D:\Learner\000 Work\230918 Formulatrix Intern\WinForm\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Form2.resources
